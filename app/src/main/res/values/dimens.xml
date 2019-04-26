@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_med">20sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="default_pad">10sp</dimen>
+    <dimen name="input_width">105dp</dimen>
+    <dimen name="column1_width">150dp</dimen>
+    <dimen name="margin_top">0dp</dimen>
+</resources>
